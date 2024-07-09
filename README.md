@@ -24,7 +24,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/InsightGenie.git
+    git clone https://github.com/AkshayMushari/InsightGenie.git
     cd InsightGenie
     ```
 
