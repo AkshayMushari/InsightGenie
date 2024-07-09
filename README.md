@@ -62,6 +62,10 @@
 
 ![InsightGenie Screenshot](path_to_screenshot.png)
 
+visit link for DEMO : 
+
+https://drive.google.com/file/d/1d2O-BoI98saArgiMBxR5GNLcVa1r62sZ/view?usp=drive_link
+
 ## Contributing
 
 We welcome contributions from the community! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
